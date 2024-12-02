@@ -1,0 +1,12 @@
+    1  pwd
+    2  git clone https://github.com/Benny-SMO/LI2024-Teste04.git
+    3  ls
+    4  cd LI2024-Teste4
+    5  cd LI2024-Teste04
+    6  mkdir js css
+    7  cd js
+    8  echo "//ficheiro de script" > script.js
+    9  echo "/* ficheiro de estilo */" > ../css/style.css
+   10  cd ..
+   11  pwd
+   12  history > cmdsTarefa2.txt
